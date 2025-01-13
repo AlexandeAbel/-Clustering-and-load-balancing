@@ -23,4 +23,4 @@
 
 ![2.2](https://github.com/AlexandeAbel/-Clustering-and-load-balancing/blob/main/img/2.2.bmp)
 
-![2.3](https://github.com/AlexandeAbel/hw-Clustering-and-load-balancing/blob/main/img/2.3.bmp)
+![2.3](https://github.com/AlexandeAbel/-Clustering-and-load-balancing/blob/main/img/2.3.bmp)
